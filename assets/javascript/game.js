@@ -53,9 +53,3 @@ console.log("computer guess " + correctAnswers);
 
 
 
-/*var nbaTeams = ['lakers', 'warriors', 'raptors', 'celtics', 'rockets', 'spurs', 'thunder', 'bulls', 'knicks', 'nuggets', 'bucks', 'wizards', 'kings', 'hawks', 'magic', 'pelicans', 'grizzlies'];
-var wins = 0;
-var losses = 0;
-var guessesLeft = 0;
-var LettersUsed = 0;
-*/
